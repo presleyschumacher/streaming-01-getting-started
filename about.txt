@@ -1,0 +1,44 @@
+
+
+==============================================================
+==============================================================
+
+ Welcome! 
+
+ It's 2023-01-11 at 07:02 PM
+
+ This file is running on:    posix Darwin 20.6.0
+ 
+ The Python version is:      3.8.9
+ 
+ The Python interpreter is at: 
+ /Library/Developer/CommandLineTools/usr/bin/python3
+
+ The active environment should be either conda OR pip (one should be None):
+
+     Active conda env is: base
+     Active pip env is:   None
+ 
+ The path to the active virtual environment is:
+
+ /Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.8
+ 
+ The Current Working Directory (CWD) where this command was launched is:
+
+ /Users/presley.schumacher/Documents/streaming-01-getting-started
+ 
+ The absolute path to the data directory is:
+
+ /Users/presley.schumacher/Documents/streaming-01-getting-started/
+ 
+ The absolute path to this source directory is:
+
+ /Users/presley.schumacher/Documents/streaming-01-getting-started
+ 
+ The absolute path to this file is:
+
+ /Users/presley.schumacher/Documents/streaming-01-getting-started/about.py
+ 
+==============================================================
+==============================================================
+

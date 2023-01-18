@@ -11,4 +11,3 @@ import csv
 
 input_file_name = "batchfile_2_kelvin.csv"
 output_file_name = "batchfile_3_farenheit.csv"
-
